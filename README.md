@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogithaishwaryamoganti&label=Profile%20views&color=0e75b6&style=flat" alt="yogithaishwaryamoganti" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/YogithaIshwaryaMoganti](https://github.com/YogithaIshwaryaMoganti)
+- 👨‍💻 My contributions are available at [https://github.com/YogithaIshwaryaMoganti](https://github.com/YogithaIshwaryaMoganti)
 
-- 📫 How to reach me **moganti98@gmail.com**
+- 📫 Feel free to reach me at -  **moganti98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

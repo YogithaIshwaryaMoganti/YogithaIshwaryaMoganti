@@ -47,7 +47,7 @@ Four projects, each shipped with an **eval harness**, **tracing/observability** 
 |---|---|---|
 | [**Security Advisory RAG Assistant**](https://github.com/YogithaIshwaryaMoganti/security-advisory-rag-assistant) | Enterprise RAG, eval-driven — real baseline: recall@5 = 1.0, MRR = 0.915 on 365 live-ingested NVD/GHSA advisories | 🟢 Live |
 | [**Agentic Code Review Bot**](https://github.com/YogithaIshwaryaMoganti/agentic-code-review-bot) | Multi-turn tool-calling agent + adversarial self-verification, read-only by design | 🟡 In Progress |
-| **Job Match & Apply Agent** | LLM agent taking real-world action, with rate-limit/dedup guardrails | 🚧 Planning |
+| [**Job Match & Shortlist Agent**](https://github.com/YogithaIshwaryaMoganti/job-match-agent) | Real Greenhouse/Lever data, dedup guardrails, drafts only — deliberately never auto-submits | 🟡 In Progress |
 | **AI Incident Response Copilot** | Java/Spring Boot + LLM agent reasoning over live systems, with approval-gated actions | 🚧 Planning |
 
 <br/>

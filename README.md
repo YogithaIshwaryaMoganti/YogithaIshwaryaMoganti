@@ -41,7 +41,7 @@ Full-stack engineer building production-grade systems across **Java/Spring Boot*
 
 ## Building in Public
 
-Four projects, each shipped with an **eval harness**, **tracing/observability** on the agent, and a short **architecture doc** — proof of engineering depth, not just a working demo.
+Five projects, each shipped with real verification (eval harnesses, load tests, or live-data checks), tracing/observability, and a short **architecture doc** — proof of engineering depth, not just a working demo.
 
 | Project | Proves | Status |
 |---|---|---|
@@ -49,6 +49,7 @@ Four projects, each shipped with an **eval harness**, **tracing/observability** 
 | [**Agentic Code Review Bot**](https://github.com/YogithaIshwaryaMoganti/agentic-code-review-bot) | Multi-turn tool-calling agent + adversarial self-verification, read-only by design | 🟡 In Progress |
 | [**Job Match & Shortlist Agent**](https://github.com/YogithaIshwaryaMoganti/job-match-agent) | Real Greenhouse/Lever data, dedup guardrails, drafts only — deliberately never auto-submits | 🟡 In Progress |
 | [**AI Incident Response Copilot**](https://github.com/YogithaIshwaryaMoganti/ai-incident-copilot) | Java-native LLM agent + real self-monitored Spring Boot service, real chaos injection, approval-gated actions | 🟡 In Progress |
+| [**Real-Time Market Data Pipeline**](https://github.com/YogithaIshwaryaMoganti/realtime-market-pipeline) | Real-time systems design — live WebSocket fan-out, streaming aggregation, real load-tested benchmarks (300 clients, 0 errors). No API key needed | 🟢 Live |
 
 <br/>
 
